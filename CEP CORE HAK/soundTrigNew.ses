@@ -241,7 +241,6 @@
                                         <Types>
                                           <Type>sound</Type>
                                         </Types>
-                                        <Binding flavour="resource">voice_1.UTS</Binding>
                                       </KnowIt>
                                     </Parameters>
                                   </CodeBlockReference>
@@ -394,7 +393,6 @@
                                 <Types>
                                   <Type>sound</Type>
                                 </Types>
-                                <Binding reference="/Story/StartStoryPoint/Successors/StoryPoint/Children/CauseIt/Children/AskIt/Children/StoryComponentContainer/Children/AskIt/Children/StoryComponentContainer[2]/Children/ScriptIt/CodeBlocks/CodeBlockReference/Parameters/KnowIt/Binding"/>
                               </KnowIt>
                             </Parameters>
                           </CodeBlockReference>
@@ -671,7 +669,6 @@
                                             <Types>
                                               <Type>sound</Type>
                                             </Types>
-                                            <Binding flavour="resource">voice_015.UTS</Binding>
                                           </KnowIt>
                                         </Parameters>
                                       </CodeBlockReference>
@@ -824,7 +821,6 @@
                                     <Types>
                                       <Type>sound</Type>
                                     </Types>
-                                    <Binding reference="/Story/StartStoryPoint/Successors/StoryPoint/Successors/StoryPoint/Children/CauseIt/Children/AskIt/Children/StoryComponentContainer/Children/AskIt/Children/StoryComponentContainer[2]/Children/ScriptIt/CodeBlocks/CodeBlockReference/Parameters/KnowIt/Binding"/>
                                   </KnowIt>
                                 </Parameters>
                               </CodeBlockReference>
@@ -1101,7 +1097,6 @@
                                                 <Types>
                                                   <Type>sound</Type>
                                                 </Types>
-                                                <Binding flavour="resource">voice_016.UTS</Binding>
                                               </KnowIt>
                                             </Parameters>
                                           </CodeBlockReference>
@@ -1254,7 +1249,6 @@
                                         <Types>
                                           <Type>sound</Type>
                                         </Types>
-                                        <Binding reference="/Story/StartStoryPoint/Successors/StoryPoint/Successors/StoryPoint/Successors/StoryPoint/Children/CauseIt/Children/AskIt/Children/StoryComponentContainer/Children/AskIt/Children/StoryComponentContainer[2]/Children/ScriptIt/CodeBlocks/CodeBlockReference/Parameters/KnowIt/Binding"/>
                                       </KnowIt>
                                     </Parameters>
                                   </CodeBlockReference>
@@ -1399,7 +1393,6 @@
                                             <Types>
                                               <Type>sound</Type>
                                             </Types>
-                                            <Binding flavour="resource">voice_017.UTS</Binding>
                                           </KnowIt>
                                         </Parameters>
                                       </CodeBlockReference>
@@ -1534,7 +1527,6 @@
                                             <Types>
                                               <Type>sound</Type>
                                             </Types>
-                                            <Binding reference="/Story/StartStoryPoint/Successors/StoryPoint/Successors/StoryPoint/Successors/StoryPoint/Successors/StoryPoint/Children/CauseIt/Children/AskIt/Children/StoryComponentContainer/Children/ScriptIt/CodeBlocks/CodeBlockReference/Parameters/KnowIt/Binding"/>
                                           </KnowIt>
                                         </Parameters>
                                       </CodeBlockReference>
