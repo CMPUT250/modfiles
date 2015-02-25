@@ -671,7 +671,7 @@
                                             <Types>
                                               <Type>sound</Type>
                                             </Types>
-                                            <Binding flavour="resource">voice_015.UTS</Binding>
+                                            <Binding flavour="resource">voice_002.UTS</Binding>
                                           </KnowIt>
                                         </Parameters>
                                       </CodeBlockReference>
@@ -1101,7 +1101,7 @@
                                                 <Types>
                                                   <Type>sound</Type>
                                                 </Types>
-                                                <Binding flavour="resource">voice_016.UTS</Binding>
+                                                <Binding flavour="resource">voice_003.UTS</Binding>
                                               </KnowIt>
                                             </Parameters>
                                           </CodeBlockReference>
@@ -1399,7 +1399,7 @@
                                             <Types>
                                               <Type>sound</Type>
                                             </Types>
-                                            <Binding flavour="resource">voice_017.UTS</Binding>
+                                            <Binding flavour="resource">voice_004.UTS</Binding>
                                           </KnowIt>
                                         </Parameters>
                                       </CodeBlockReference>

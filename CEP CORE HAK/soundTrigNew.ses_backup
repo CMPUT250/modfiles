@@ -307,7 +307,7 @@
                     <Types>
                       <Type>trigger</Type>
                     </Types>
-                    <Binding flavour="resource">newgeneric002.UTT</Binding>
+                    <Binding flavour="resource">newgeneric001.UTT</Binding>
                   </KnowIt>
                 </Parameters>
               </CodeBlockReference>
@@ -442,7 +442,7 @@
                     <Types>
                       <Type>trigger</Type>
                     </Types>
-                    <Binding flavour="resource">newgeneric002.UTT</Binding>
+                    <Binding reference="/Story/StartStoryPoint/Successors/StoryPoint/Children/CauseIt/CodeBlocks/CodeBlockReference/Parameters/KnowIt/Binding"/>
                   </KnowIt>
                 </Parameters>
               </CodeBlockReference>
@@ -737,7 +737,7 @@
                         <Types>
                           <Type>trigger</Type>
                         </Types>
-                        <Binding flavour="resource">newgeneric003.UTT</Binding>
+                        <Binding flavour="resource">newgeneric002.UTT</Binding>
                       </KnowIt>
                     </Parameters>
                   </CodeBlockReference>
@@ -872,7 +872,7 @@
                         <Types>
                           <Type>trigger</Type>
                         </Types>
-                        <Binding flavour="resource">newgeneric003.UTT</Binding>
+                        <Binding reference="/Story/StartStoryPoint/Successors/StoryPoint/Successors/StoryPoint/Children/CauseIt/CodeBlocks/CodeBlockReference/Parameters/KnowIt/Binding"/>
                       </KnowIt>
                     </Parameters>
                   </CodeBlockReference>
@@ -1167,7 +1167,7 @@
                             <Types>
                               <Type>trigger</Type>
                             </Types>
-                            <Binding flavour="resource">newgeneric004.UTT</Binding>
+                            <Binding flavour="resource">newgeneric003.UTT</Binding>
                           </KnowIt>
                         </Parameters>
                       </CodeBlockReference>
@@ -1302,7 +1302,7 @@
                             <Types>
                               <Type>trigger</Type>
                             </Types>
-                            <Binding flavour="resource">newgeneric004.UTT</Binding>
+                            <Binding reference="/Story/StartStoryPoint/Successors/StoryPoint/Successors/StoryPoint/Successors/StoryPoint/Children/CauseIt/CodeBlocks/CodeBlockReference/Parameters/KnowIt/Binding"/>
                           </KnowIt>
                         </Parameters>
                       </CodeBlockReference>
