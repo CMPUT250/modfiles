@@ -669,6 +669,10 @@
                                             <Types>
                                               <Type>sound</Type>
                                             </Types>
+<<<<<<< HEAD
+                                            <Binding flavour="resource">voice_002.UTS</Binding>
+=======
+>>>>>>> origin/master
                                           </KnowIt>
                                         </Parameters>
                                       </CodeBlockReference>
@@ -1097,6 +1101,10 @@
                                                 <Types>
                                                   <Type>sound</Type>
                                                 </Types>
+<<<<<<< HEAD
+                                                <Binding flavour="resource">voice_003.UTS</Binding>
+=======
+>>>>>>> origin/master
                                               </KnowIt>
                                             </Parameters>
                                           </CodeBlockReference>
@@ -1393,6 +1401,10 @@
                                             <Types>
                                               <Type>sound</Type>
                                             </Types>
+<<<<<<< HEAD
+                                            <Binding flavour="resource">voice_004.UTS</Binding>
+=======
+>>>>>>> origin/master
                                           </KnowIt>
                                         </Parameters>
                                       </CodeBlockReference>
