@@ -94,11 +94,9 @@ There's a PCL machine that matches blood evidence. It will ask for some blood. O
 	5. Adam
 	6. Benjamin 
 To get Helga's DNA, just ask her if she wants a cup of coffee. You give her the coffee and after she drinks it you offer to put it in the sink. She gives you a helga_coffee_cup 
-To get Boss's just do the same thing. 
+To get Boss's and Fred's just do the same thing. 
 You can dispose the cups by dumping them to the sink. 
 Mary, Adam, Benjamin: You ask Helga for their DNA and she will give you all of them. 
-We could do the same thing with Fred or just use his gun as dna evidence? what do you think?
-(also, you know how in the practice lab exam we could put an item in a chest? I think if we get done ahead of time, we could make it so that you give the PCL machine an item and they don't even give you  names to choose from. You just choose any item you want and they will compare it)
 
 PLC machine will return back data results for all of them. 
 
