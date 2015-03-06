@@ -21,7 +21,7 @@ MC says: "Is this new evidence from the crime? I should let the Boss know!"
 
 <MOVIE2>: The case is reopened, and the three suspects are brought into the interrogation room. 
 
---> Go inside interrogation room and talk to 3 suspects
+--> Go inside interrogation room and talk to 3 suspectsxr
 
 Helga: "I didn't do this! You guys are crazy! I'm going to go home and take my medication.
 
