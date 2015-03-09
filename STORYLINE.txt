@@ -3,68 +3,64 @@ LEGEND:
 --------------------------------------------------------------------------------------------------------------------------
 
 <MOVIE1>:  Opening Scene. Bill says he's innocent. 
-<CUTSCENE> Fred shows Helga, Boss and your cubicle area (the one with the black laptop)
+<CUTSCENE> Fred shows Helga, Boss, Doctor (who just heals you) and your cubicle area (the one with no computer)
 
 -->To find information of case, you go onto computer to print out info. Go to printer to get "case_summary" 
 -->Go to hotel
 
 <CUTSCENE>: 
 Follow Bill to control panel.
-There should be a trigger at the entrance of the door that: it's pretty dark here, i should get the flash light in my cabinet. 
+There should be a trigger at the entrance of the door that: it's pretty dark here, i should get the flash light in my cabinet. (There's a flashlight in your filing cabinet in the office)
 
---> Get the map_info on floor: Tells you where all the locations in the building are
+--> Get the map_info on floor which is in the first control room: Tells you where all the locations in the building are
 Follow Bill to Boss's room
 Get 35mm Camera in Boss's room. 
-MC says: "Is this new evidence from the crime? I should let the Boss know!"
+MC says: "Is this new evidence from the crime? It looks like Bill was fighting someone! I should let the Boss know!"
 
 -->Go to office and tell Boss to reopen the case. 
 
 <MOVIE2>: The case is reopened, and the three suspects are brought into the interrogation room. 
 
---> Go inside interrogation room and talk to 3 suspectsxr
+--> Go inside interrogation room and talk to 3 suspects
 
-Helga: "I didn't do this! You guys are crazy! I'm going to go home and take my medication.
+Mary: "I didn't do this! You guys are crazy! Here's proof: She gives you her mary_pills
 
-Ben's Brother: Will say his brother had a good heart and that something bad happened. He wasn't sure what happened but he left him a key. Gives you the item "ben_key". You need this to open the safe in Ben's room.
+Ben's Brother: Will say his brother had a good heart and that something bad happened. Gives you "ben_letter" Their mom was really sick and Ben did some work with people he didn't tell him about. He gives you "ben_letter" and tells  you to check in his room for the key to his lab. 
 
 Adam: Will tell you that he and his friend shared a room in the hotel. And that it was a shame his room mate died, and that the police did extremely sloppy police work. 
 
-There will be police blocking the exit of the interrogation room. You can't leave it until you talk to all the suspects and get "ben key". 
+There will be police blocking the exit of the interrogation room. You can't leave it until you talk to all the suspects and get "mary_pill" and "ben_letter"
 
 
-<MOVIE3> You continue to work on the case in your office. Then you get a call from your boss at night. Something happened in the hotel. You go to the entrance of the hotel and the police tell you that Mary commit suicided in the hotel. Boss tells you to get the key from him tomorrow morning to unlock the 2 door_block. 
+<MOVIE3> You continue to work on the case in your office. Then you get a call from your boss at night. Something happened in the hotel. You go to the entrance of the hotel and the police tell you that Mary commit suicided in the hotel. Boss tells you to get the key from him tomorrow. 
 
 ---> Go to Helga to get Mary's "autopsy_report". 
----> Go to Boss and get the key. 
-     Boss will tell you to be careful. He tells you he heard that the poisonous gas in the basement caused mutations and that's why no one went in there. He tells MC that he is NOT allowed to go to the basement and should only investigate the main floors of the buildings. 
-
-     There's are big monsters in the entrance of the basements. So there's no way the MC can even enter the hallways of that basement unless he has some sort of a weapon or else he will die really fast. 
-
----> Go to Fred and ask if you could borrow his gun. He gives it to you. 
-He also gives you fred_note that says "Be careful."
-Now you have a lesser chance of dying. 
-
+---> Go to Boss who will unlock the 2 "door_block" doors 
+     Boss will tell you to be careful. He tells you he heard that the poisonous gas in the basement caused mutations and that's why no one went in there. He tells MC that he is NOT allowed to go to the basement and should only investigate the main floors of the buildings. He also says, "since you just came back to the workforce, I can't give you a gun. You will just need to do detective work."
+THen MC goes, "I know Randall doesn't want me to investigate the basement, but I need to, and I need some sort of a weapon. I need to ask someone to borrow theirs."
+When you go to Fred he says: "I'm sorry, I don't think this is right Jack."
+and before you exit, Fred walks up to you and says, "check your desk."
+He leaves a bag called "Fred_bag" there and there should be a gun and a good_luck note. 
+<HOTEL AREA>
 
 --->Now all you do is find evidence.
+Bill shows up in the entrance and says, "three things…"
+You: Hmm, there must be three things Bill wants me to find. I better check the guest rooms. 
+
+IN ANY ORDER:
 
 Adam's Room: Orb tells you there's something in the garbage can. 
 --> Get adam_receipt from garbage can
 
 Mary's Room: Orb tells you to find the syringe in the bathroom. 
---> Get mary_pills in the room
 --> Get syringe from bathroom toilet 
 
-Ben's Room: Orb tells you that there's a red book in his lab at the back
-There's also a slime_monster in his room. You collect the "unknown_liquid" from the slime monster if you beat it.
----> Get ben_note in his room 
----> Use "ben_key" to open the safe. You collect key_lab from the safe.
+Ben's Room:
+(Ben's bro the suspect with the white shirt said that Ben's key is somewhere in his room) 
+Open the safe and get "ben lab" key.
+Ben ghost will tell you there's a red book in the back of his lab. 
 
-The lab room has posters in front that says you need a safety suit. If you enter the lab without a safety suit you will be poisoned. You need a safety suit to not be poisoned. 
-If you go to the office, there's a locker with a poster for safety suits. You can't get the suits because there's a guy who blocks the locker. 
-Guy tells you that you need HELGA'S permission to get the safety_suit.
-HELGA will give it you permission if you have a sample of the "unknown_liquid" you get from defeating the slime monster in Ben's room.  
-
---->Once you get the safety suit, you can go into the lab and retrieve ben's notebook. 
+Ben's Lab: Use "ben lab" key to open Ben's lab. Get "Red book" in back
 
 Once you get all these items, there will be a cutscene: Bill says to find him in the tiled room. 
 
@@ -72,40 +68,36 @@ Go to tiled room at the back.
 
 <CUTSCENE> Bill says there's a hidden room. Look at the stairs. 
 
----> go to the hidden room (I PUT A BIG TREE BESIDE IT, it's located by the staircase to the boss's room)
----> enter a hallway. Once you open the door of the hallway, there are 3 rooms. Only 1 is the boiler room. 
+---> go to the HIDDEN DOOR ROOM
+---> enter a hallway.
+
+pick up death_threat letter on hallway
+
+Once you open the door of the hallway, there are 3 rooms. Only 1 is the boiler room. 
 MC says that the scene of the crime is in this area and that he should reread the case_summary. 
 	If you read the case summary it says that there was a radio playing in the boiler room during that time. 
 
 ---> Go into room 8 and see blood on the pipes. Collect the blood_crime. 
 After player says: "There may have been other blood at the scene of the crime! It could just be Bill's… I need to get this tested."
 
+
+
+
+
+
+
+<OFFICE AREA> 
 --> Go back to the office. 
 
 The boss comes up to you and says "Listen, Jack. Our officers have concluded Mary did it. We are missing some evidence so if you can help us let us know. When you're ready to present your evidence, come to the conference room. I need the evidence by tonight." 
 
---> Give syringe to HELGA. She gives you syringe_report (which basically says there's traces of mary's blood and the chemical CAClP)
+Go to helga and give Syringe, she will give you syringe_report
+go to the PLC machine in her lab and give it the unknown_blood_sample. It will give you dna_profiles. 
 
-There's a PCL machine that matches blood evidence. It will ask for some blood. Once you give the blood_evidence then it's going to ask you to compare it with someone.
-	1. Helga
-	2. Boss
-	3. Fred
-	4. Mary
-	5. Adam
-	6. Benjamin 
-To get Helga's DNA, just ask her if she wants a cup of coffee. You give her the coffee and after she drinks it you offer to put it in the sink. She gives you a helga_coffee_cup 
-To get Boss's and Fred's just do the same thing. 
-You can dispose the cups by dumping them to the sink. 
-Mary, Adam, Benjamin: You ask Helga for their DNA and she will give you all of them. 
-
-PLC machine will return back data results for all of them. 
-
---> DNA evidence matches 99% FRED
+Once you get that, 
 --> You go to the conference room and present your evidence.
 
 <Movie4> Fred calls you and asks why you convicted him. Fred becomes depressed and tells the MC he might be going crazy. And that the gas is making him crazy and that he is innocent. And the MC thinks of Bill and gets worried if he convicted the wrong person. 
-
-<Cut scene?> You are in the office and get a call from Fred saying he's going to end his life if he gets convicted and it's not the MC's fault. He tells the MC that he's in the control room of the hotel. 
 
 --->You go to the control room, no one is there but the phone rings. You pick it up it's FRED and he tells you that you are dumb and gullible and gonna die. He gives you an item_3 that tells you that he needs to shut all the boiler rooms off. 
 
