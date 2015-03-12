@@ -1,5 +1,5 @@
 <Story>
-  <Title>*BSSE</Title>
+  <Title>BSSE</Title>
   <Author>Boyuan</Author>
   <Version>2.7</Version>
   <Translator>Neverwinter Nights</Translator>
@@ -1872,7 +1872,7 @@
                     <Types>
                       <Type>dialogue_line</Type>
                     </Types>
-                    <Binding flavour="resource">pc_convo.DLG#0&gt;0&gt;0&gt;0&gt;0&gt;0&gt;0&gt;0</Binding>
+                    <Binding flavour="resource">pc_convo.DLG#0&gt;0&gt;0&gt;6&gt;0&gt;2&gt;0&gt;0</Binding>
                   </KnowIt>
                 </Parameters>
               </CodeBlockReference>

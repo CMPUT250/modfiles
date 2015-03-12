@@ -1,4 +1,4 @@
-LEGEND:
+﻿LEGEND:
 --> Means the things the USER physically does. 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -23,13 +23,13 @@ MC says: "Is this new evidence from the crime? It looks like Bill was fighting s
 
 --> Go inside interrogation room and talk to 3 suspects
 
-Mary: "I didn't do this! You guys are crazy!
+Mary: "I didn't do this! You guys are crazy! Here's proof: She gives you her mary_pills
 
 Ben's Brother: Will say his brother had a good heart and that something bad happened. Gives you "ben_letter" Their mom was really sick and Ben did some work with people he didn't tell him about. He gives you "ben_letter" and tells  you to check in his room for the key to his lab. 
 
 Adam: Will tell you that he and his friend shared a room in the hotel. And that it was a shame his room mate died, and that the police did extremely sloppy police work. 
 
-There will be police blocking the exit of the interrogation room. You can't leave it until you talk to all the suspects and get the "ben_letter"
+There will be police blocking the exit of the interrogation room. You can't leave it until you talk to all the suspects and get "mary_pill" and "ben_letter"
 
 
 <MOVIE3> You continue to work on the case in your office. Then you get a call from your boss at night. Something happened in the hotel. You go to the entrance of the hotel and the police tell you that Mary commit suicided in the hotel. Boss tells you to get the key from him tomorrow. 
@@ -46,7 +46,6 @@ He leaves a bag called "Fred_bag" there and there should be a gun and a good_luc
 --->Now all you do is find evidence.
 Bill shows up in the entrance and says, "three things…"
 You: Hmm, there must be three things Bill wants me to find. I better check the guest rooms. 
-
 
 IN ANY ORDER:
 
@@ -89,7 +88,7 @@ After player says: "There may have been other blood at the scene of the crime! I
 
 <OFFICE AREA> 
 --> Go back to the office. 
-
+j
 The boss comes up to you and says "Listen, Jack. Our officers have concluded Mary did it. We are missing some evidence so if you can help us let us know. When you're ready to present your evidence, come to the conference room. I need the evidence by tonight." 
 
 Go to helga and give Syringe, she will give you syringe_report
@@ -100,7 +99,7 @@ Once you get that,
 
 <Movie4> Fred calls you and asks why you convicted him. Fred becomes depressed and tells the MC he might be going crazy. And that the gas is making him crazy and that he is innocent. And the MC thinks of Bill and gets worried if he convicted the wrong person. 
 
---->You go to the control room, no one is there but the phone rings. You pick it up it's FRED and he tells you that you are dumb and gullible and gonna die.  
+--->You go to the control room, no one is there but the phone rings. You pick it up it's FRED and he tells you that you are dumb and gullible and gonna die. He gives you an item_3 that tells you that he needs to shut all the boiler rooms off. 
 
 If u do u win the game. 
 
