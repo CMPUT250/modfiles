@@ -1,4 +1,4 @@
-﻿LEGEND:
+LEGEND:
 --> Means the things the USER physically does. 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -34,7 +34,6 @@ There will be police blocking the exit of the interrogation room. You can't leav
 
 <MOVIE3> You continue to work on the case in your office. Then you get a call from your boss at night. Something happened in the hotel. You go to the entrance of the hotel and the police tell you that Mary commit suicided in the hotel. Boss tells you to get the key from him tomorrow. 
 
----> Go to Helga to get Mary's "autopsy_report". 
 ---> Go to Boss who will unlock the 2 "door_block" doors 
      Boss will tell you to be careful. He tells you he heard that the poisonous gas in the basement caused mutations and that's why no one went in there. He tells MC that he is NOT allowed to go to the basement and should only investigate the main floors of the buildings. He also says, "since you just came back to the workforce, I can't give you a gun. You will just need to do detective work."
 THen MC goes, "I know Randall doesn't want me to investigate the basement, but I need to, and I need some sort of a weapon. I need to ask someone to borrow theirs."
@@ -79,10 +78,6 @@ MC says that the scene of the crime is in this area and that he should reread th
 
 ---> Go into room 8 and see blood on the pipes. Collect the blood_crime. 
 After player says: "There may have been other blood at the scene of the crime! It could just be Bill's… I need to get this tested."
-
-
-
-
 
 
 
