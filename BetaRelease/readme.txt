@@ -35,9 +35,10 @@ List of Submitted Files:
     - ending.bik
 
   
-Instructions: 
+Instructions:
+  - Unzip the haks from " "
   - Use the premade character "Jack"
   - The starting module is "BeginningScene"
-  - Recommended to use wasd and arrow keys to play the game
+  - Recommended to use wasd or arrow keys to play the game
   
 
