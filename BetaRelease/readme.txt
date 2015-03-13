@@ -12,7 +12,11 @@ Members:
   - Jaclynn Wong (EP)
   
 List of Submitted Files:
-  - 
+  - BeginningScene.mod
+  - WithGhost.mod
+  - Interegation.mod
+  - FEVPEV.mod
+  - GasPart.mod
   
 Instructions: 
   - Use the premade character "Jack"
