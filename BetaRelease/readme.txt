@@ -36,7 +36,7 @@ List of Submitted Files:
 
   
 Instructions:
-  - Unzip the haks from " "
+  - Unzip the files from " "
   - Use the premade character "Jack"
   - The starting module is "BeginningScene"
   - Recommended to use wasd or arrow keys to play the game
