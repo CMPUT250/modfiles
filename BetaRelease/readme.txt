@@ -25,21 +25,8 @@ List of Submitted Files:
     - movie4.bik
     - ending.bik
   - hak:
-    - cep2_core0
-    - cep2_core1
-    - cep2_core2
-    - cep2_core3
-    - cep2_core4
-    - cep2_core5
-    - cep2_core6
-    - cep2_add_sb_v1
-    - cep2_add_phenos1
-    - cep2_add_phenos2
-    - cep2_add_phenos3
-    - cep2_add_phenos4
-    - cep2_add_phenos5
-    - cept2_top_v22
-    - mdrn20 haks
+    - cep_2_60_full_0.7z
+    - CEP_22_D20_2.7z
     - udp2_off_int
     - updatedcombined
     - testpor
