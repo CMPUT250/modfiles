@@ -12,6 +12,15 @@ Members:
   - Jaclynn Wong (EP)
   
 List of Submitted Files:
+  - hak:
+    - cep_2_60_full_0.7z
+    - CEP_22_D20_2.7z
+    - udp2_off_int
+    - updatedcombined
+    - testpor
+    - gamemusic
+  - localvault 
+    - Jack.bic
   - modules:
     - BeginningScene.mod
     - WithGhost.mod
@@ -24,13 +33,7 @@ List of Submitted Files:
     - MOVIE3.bik
     - movie4.bik
     - ending.bik
-  - hak:
-    - cep_2_60_full_0.7z
-    - CEP_22_D20_2.7z
-    - udp2_off_int
-    - updatedcombined
-    - testpor
-    - gamemusic
+
   
 Instructions: 
   - Use the premade character "Jack"
