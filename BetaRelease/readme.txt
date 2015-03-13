@@ -34,7 +34,6 @@ List of Submitted Files:
     - movie4.bik
     - ending.bik
 
-  
 Instructions:
   - Unzip the files from " "
   - Use the premade character "Jack"
